@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/porto1/static/css/main.e5b5a5f9.css",
+    "main.js": "/porto1/static/js/main.3c94c202.js",
+    "static/js/453.9dad768b.chunk.js": "/porto1/static/js/453.9dad768b.chunk.js",
+    "static/media/project-6.png": "/porto1/static/media/project-6.2f92f5e25e0dc75a85e9.png",
+    "static/media/project-2.png": "/porto1/static/media/project-2.7165bd4d3a1247360616.png",
+    "static/media/project-5.png": "/porto1/static/media/project-5.0cd40fd4ac6650dfe706.png",
+    "static/media/project-4.png": "/porto1/static/media/project-4.283e8688e23f7187ebc0.png",
+    "static/media/project-1.png": "/porto1/static/media/project-1.6694aee1a4f624c8e400.png",
+    "static/media/profile.png": "/porto1/static/media/profile.13ee5a1c51399c694b66.png",
+    "static/media/project-3.png": "/porto1/static/media/project-3.c1440fe26b46c78507e4.png",
+    "static/media/icon-1.png": "/porto1/static/media/icon-1.c9a23520e7204cc5c535.png",
+    "static/media/icon-2.png": "/porto1/static/media/icon-2.8f912e6eff277ae16489.png",
+    "index.html": "/porto1/index.html",
+    "main.e5b5a5f9.css.map": "/porto1/static/css/main.e5b5a5f9.css.map",
+    "main.3c94c202.js.map": "/porto1/static/js/main.3c94c202.js.map",
+    "453.9dad768b.chunk.js.map": "/porto1/static/js/453.9dad768b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e5b5a5f9.css",
+    "static/js/main.3c94c202.js"
+  ]
+}
